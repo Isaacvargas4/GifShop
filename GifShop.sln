@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifShop.API", "GifShop.API\GifShop.API.csproj", "{6B1D9F99-0276-49E5-AC73-F9FA8331ABBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1D9F99-0276-49E5-AC73-F9FA8331ABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1D9F99-0276-49E5-AC73-F9FA8331ABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1D9F99-0276-49E5-AC73-F9FA8331ABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1D9F99-0276-49E5-AC73-F9FA8331ABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C02E25-135A-4B42-91F3-965E383DFEE6}
+	EndGlobalSection
+EndGlobal
